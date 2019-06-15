@@ -1,6 +1,6 @@
 {
   "name": "vue-tk-date-time",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Secondary development projects",
   "author": "lp <452254117@qq.com>",
   "scripts": {
@@ -40,10 +40,10 @@
     "timepicker"
   ],
   "main": "dist/vue-date-time-m.js",
-  "homepage": "https://github.com/mayufo/vue-date-time-m",
+  "homepage": "https://github.com/lp452254117/vue-tk-date-time.git",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mayufo/vue-date-time-m"
+    "url": "git+https://github.com/lp452254117/vue-tk-date-time.git"
   },
   "engines": {
     "node": ">= 6.0.0",
@@ -57,5 +57,5 @@
   "dependencies": {},
   "__npminstall_done": "Sat Jun 15 2019 15:10:04 GMT+0800 (GMT+08:00)",
   "_from": "vue-date-time-m@1.0.30",
-  "_resolved": "https://registry.npm.taobao.org/vue-date-time-m/download/vue-date-time-m-1.0.30.tgz"
+  "_resolved": "https://github.com/lp452254117/vue-tk-date-time.git"
 }

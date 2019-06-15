@@ -1,4 +1,4 @@
-# vue-date-time-m
+# vue-tk-date-time
 
 
 移动端好用的时间日历组件没有找到合适的，遂自己写了个。
@@ -21,14 +21,14 @@ UI部分借鉴了  [vue-persian-datetime-picker](https://talkhabi.github.io/vue-
 ### npm
 
 ```
-npm install vue-date-time-m
+npm install vue-tk-date-time
 ```
 
 ### use
 - main.js
 
 ```
-import dateTime from 'vue-date-time-m';
+import dateTime from 'vue-tk-date-time';
 Vue.component('data-time', dateTime);
 ```
 
@@ -44,7 +44,7 @@ Vue.component('data-time', dateTime);
         </template>
 
         <script>
-          import DateTime from 'vue-date-time-m'
+          import DateTime from 'vue-tk-date-time'
           export default {
             data(){
               return {
